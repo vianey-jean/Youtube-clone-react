@@ -1,8 +1,8 @@
-# AXIOS
+### AXIOS
 
 Cette application utilise "axios" pour récupère les données API
 
-## @mui/icons-material
+### @mui/icons-material
 
 Utilisation des icons 
 
@@ -11,5 +11,5 @@ Utilisation des icons
 Cette application utilise react-player pour lire les vidéo surtout les youtubes vidéos en lignes
 
 ### Auteur
-Profil sur Linkedin: https://www.linkedin.com/in/jean-marie-rabemanalina/
+Profil sur Linkedin: https://www.linkedin.com/in/jean-marie-rabemanalina/ <br/>
 Portfolio:  https://beriziky.netlify.app/ . 
