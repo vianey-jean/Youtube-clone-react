@@ -1,6 +1,6 @@
 //import MusicNoteIcon from '@mui/icons-material/MusicNote';
 import HomeIcon from '@mui/icons-material/Home';
-//import CodeIcon from '@mui/icons-material/Code';
+import NewsIcon from '@mui/icons-material/NewReleases';
 import OndemandVideoIcon from '@mui/icons-material/OndemandVideo';
 import SportsEsportsIcon from '@mui/icons-material/SportsEsports';
 import LiveTvIcon from '@mui/icons-material/LiveTv';
@@ -16,6 +16,7 @@ import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 
 export const categories = [
   { name: 'Accueil', icon: <HomeIcon />, },
+  { name: 'Nouveauté', icon: <NewsIcon />, },
   { name: 'Tendances', icon: <FaceRetouchingNaturalIcon  />, },
   { name: 'Direct', icon: <LiveTvIcon />, },
   { name: 'Jeux vidéo', icon: <SportsEsportsIcon/>, },
